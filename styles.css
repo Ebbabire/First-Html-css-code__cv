@@ -1,0 +1,28 @@
+body {
+  background-color: #8889a5;
+}
+hr {
+  border-color: #002b5b;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: px;
+  width: 10%;
+}
+img {
+  height: 150px;
+  border-radius: 50%;
+}
+h1 {
+  color: #81cacf;
+  text-align: justify;
+}
+h2 {
+  color: #81cacf;
+}
+a {
+  color: #fcf8e8;
+  text-decoration: none;
+}
+#contact-me.html {
+  color: #002b5b;
+}
